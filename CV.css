@@ -166,13 +166,3 @@ p.dates{
     margin-left: 40%;
     text-align: justify;
 }  
-
-
-@media only screen and (max-width: 600px) {
-    h1 {
-        font-size: 20px;
-    }
-
-
-}
-
