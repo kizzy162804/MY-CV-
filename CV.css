@@ -1,0 +1,178 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+#wrapper{
+    height: 70%;
+    width: 70%;
+    background-color: white;
+    margin: 30px;
+    
+    border-style: groove;
+}
+.name{
+    background-color: rgb(41, 41, 102);
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    padding: 1.5em;
+}
+
+.social{
+    text-decoration:none ;
+    
+}
+
+h3{
+    padding:10px;
+    padding-top: 10px;
+    line-height: 10px;
+    margin-top:  1px;
+    margin-left: 50px;
+    color:midnightblue;
+}
+p{
+    padding:0px;
+    margin-top: 0px;
+    margin-left: 5%;
+    text-justify: justify
+    margin-left: 0.9%;  
+    margin-bottom: 20px;    
+ }
+
+ul{
+    padding:0px;
+    margin-left: 10%;
+    margin-top: 0px;
+   
+   line-height:30px;
+}
+
+hr{
+    border-bottom: 2px solid rgb(41, 41, 102);
+}
+
+.department{
+    display: flex;
+}
+
+p.date{
+    margin: 10px;
+    margin-left: 32%;
+    text-align: justify;
+}
+date{
+    margin: 10px;
+    margin-left:auto;
+    text-align: right;
+}
+.omo-forest{
+    display: flex;
+   
+}
+
+.Forest-Research{
+    display: flex;
+}
+
+.bachelor{
+    display: flex;
+}
+
+.AFD{
+    display: flex;
+}
+
+.Learning{
+    display: flex;
+}
+
+.NEXT{
+    display: flex;
+}
+
+.jobberman{
+    display: flex;
+}
+
+.ibadan{
+    display: flex;
+}
+
+.NYSC{
+    display: flex;
+}
+
+.PYTP{
+    display: flex;
+}
+h4{
+    text-decoration: underline;
+}
+.msc{
+    display: flex;
+}
+
+.Economy{
+
+    display: flex;
+}
+
+.SUSta{
+    display: flex;
+}
+
+.ISDS{
+    display: flex;
+}
+
+.Climate-Change{
+    display: flex;
+}
+
+h4{
+    padding:10px;
+    margin-top:  1px;
+    margin-left: 50px;
+}
+
+.university{
+    margin-left: 12%; 
+    padding-top: 0%;
+    margin-top:  0px;
+}
+
+h5{
+  padding: 10px;
+}
+
+
+    a:link{
+        background-color: #968fb1;
+        color:yellow
+        padding: 14px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        border-radius: 20px;
+        margin-left: 50%;
+        padding:1em;
+
+}
+
+p.dates{
+    margin: 10px;
+    margin-left: 40%;
+    text-align: justify;
+}  
+
+
+@media only screen and (max-width: 600px) {
+    h1 {
+        font-size: 20px;
+    }
+
+
+}
+
